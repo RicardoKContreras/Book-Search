@@ -7,6 +7,8 @@ const seedUser = [
      username: 'Ricardo',
     email: 'ricardo@gmail.com',
     password: 'pass123'
+
+    
     },
     {
         username: 'Tiffany',
