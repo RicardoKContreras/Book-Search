@@ -66,7 +66,7 @@
 //       req.user = data;
 //     } catch {
 //       console.log('Invalid token');
-//       return res.status(400).json({ message: 'invalid token!' });
+//       return res.status().json({ message: 'invalid token!' });
 //     }
 
 //     // send to next endpoint
