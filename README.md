@@ -44,3 +44,15 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 - Set up the entire `backend` with `queries and mutations` for the client to use
 - Use the backend `queries and mutations` to connect to the `frontend`
 - used `query hooks` and `mutation hooks` to dynamically change the page
+
+Searched Books:
+![searched books](https://user-images.githubusercontent.com/104086686/194729515-673ce03f-2a84-45a0-ba96-cbaff4f56ed2.png)
+
+Saved Books:
+![saved books](https://user-images.githubusercontent.com/104086686/194729524-eebf9816-b19e-4f12-b232-b4d00e047b31.png)
+
+
+Deleted Books:
+![deleted books](https://user-images.githubusercontent.com/104086686/194729528-fb45a17e-1b4e-4cd2-b3d0-b81c0d3e5e2e.png)
+
+
