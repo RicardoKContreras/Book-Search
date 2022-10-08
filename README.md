@@ -45,6 +45,9 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 - Use the backend `queries and mutations` to connect to the `frontend`
 - used `query hooks` and `mutation hooks` to dynamically change the page
 
+## Deployed application
+- https://aqueous-journey-51557.herokuapp.com/
+
 Searched Books:
 ![searched books](https://user-images.githubusercontent.com/104086686/194729515-673ce03f-2a84-45a0-ba96-cbaff4f56ed2.png)
 
