@@ -35,3 +35,12 @@ WHEN I click on the Remove button on a book
 THEN that book is deleted from my saved books list
 WHEN I click on the Logout button
 THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button
+
+
+## Notes
+- Updated the `auth middleware` to work with `Graphql API`
+- Implemented the `Apollo Server` and applied it to the `Express server` as middleware
+- Used the Schema directory to set up `index.js, resolver.js, typDefs.js` to define the `queries and mutations`
+- Set up the entire `backend` with `queries and mutations` for the client to use
+- Use the backend `queries and mutations` to connect to the `frontend`
+- used `query hooks` and `mutation hooks` to dynamically change the page
